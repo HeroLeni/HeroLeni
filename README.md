@@ -1,8 +1,14 @@
+Miyabi Happi! ^^
+
+https://github.com/user-attachments/assets/eb0421a9-397e-49b9-855d-c6d0b89d0912
+
 # 💫 About Me:
 🧑‍💻 About Me:<br> 🇨🇴 Medellín-Colombia<br>🧠 Backend → PHP, Python, Kotlin, Java<br>🛡️ Junior in Backend<br>💻 Debian Gnome my beloved or Windows 11 LTSC <br>🔋 Just gimmie a Coca Cola or Red-Bull<br>🔧💥 “Either i Fix or Explode stuff when i touch it lol”
 
 
 ## 🌐 Socials:
+
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mizushimanaomiz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/juan-eduardo-zorrilla-chavez-63aa17368) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Lenisita) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LeniChanDu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TechWithLeni) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Lenisita) 
 
 # 💻 Tech Stack:
