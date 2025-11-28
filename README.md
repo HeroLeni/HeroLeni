@@ -2,6 +2,7 @@ Miyabi Happi! ^^
 
 https://github.com/user-attachments/assets/eb0421a9-397e-49b9-855d-c6d0b89d0912
 
+Name: Juan Eduardo
 # 💫 About Me:
 🧑‍💻 About Me:<br> 🇨🇴 Medellín-Colombia<br>🧠 Backend → PHP, Python, Kotlin, Java<br>🛡️ Junior in Backend<br>💻 Debian Gnome my beloved or Windows 11 LTSC <br>🔋 Just gimmie a Coca Cola or Red-Bull<br>🔧💥 “Either i Fix or Explode stuff when i touch it lol”
 
